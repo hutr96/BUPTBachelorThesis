@@ -1,0 +1,23 @@
+\contentsline {chapter}{\numberline {1}绪论}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}基于深度神经网络的鲁棒语音特征提取模型}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}瓶颈鲁棒语音特征}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}深度神经网络鲁棒语音特征提取模型}{3}{section.2.2}
+\contentsline {section}{\numberline {2.3}对抗神经网络鲁棒语音特征提取模型}{3}{section.2.3}
+\contentsline {section}{\numberline {2.4}基准模型}{3}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}STSA-MMSE}{3}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}DNN based speech enhancement}{3}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}SDN-BN}{3}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {2.4.4}DAN-BN}{3}{subsection.2.4.4}
+\contentsline {chapter}{\numberline {3}实验}{4}{chapter.3}
+\contentsline {section}{\numberline {3.1}数据集}{4}{section.3.1}
+\contentsline {section}{\numberline {3.2}噪音}{4}{section.3.2}
+\contentsline {section}{\numberline {3.3}说话人识别系统}{4}{section.3.3}
+\contentsline {section}{\numberline {3.4}实验准备}{4}{section.3.4}
+\contentsline {chapter}{\numberline {4}结果与分析}{5}{chapter.4}
+\contentsline {chapter}{\numberline {5}结论}{7}{chapter.5}
+\contentsline {chapter}{参考文献}{8}{section*.2}
+\contentsline {chapter}{致\hskip 2em\relax {}谢}{10}{section*.4}
+\contentsline {chapter}{附\hskip 2em\relax {}录}{11}{section*.7}
+\contentsline {section}{附录1\hskip 1em\relax {}缩略语表}{11}{section*.8}
+\contentsline {section}{附录2\hskip 1em\relax {}数学符号}{11}{section*.9}
+\contentsfinish 
